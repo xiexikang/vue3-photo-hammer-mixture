@@ -1,0 +1,37 @@
+#app {
+  font-family: Avenir, Helvetica, Arial, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  text-align: center;
+  color: #2c3e50;
+  height: 100%;
+}
+
+body{
+  font-family: "Helvetica Neue", Helvetica, "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", "微软雅黑", Arial, sans-serif;;
+  font-size: 12px;line-height: 1.5;
+  background: #fff;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+body, div, dl, dt, dd, ul, ol, li, h1, h2, h3, h4, h5, h6, form, fieldset, legend, input, textarea, p, blockquote, th, td, hr, button, article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section{
+  margin: 0;
+  padding: 0;
+}
+button, input, select, textarea{font-family: inherit;font-size: inherit;line-height: inherit;}
+input::-ms-clear, input::-ms-reveal{display: none;}
+
+code,
+kbd,
+pre,
+samp{
+  font-family: Consolas, Menlo, Courier, monospace;
+}
+body{word-break: break-word;}
+ul, ol, li{list-style: none;}
+h1, h2, h3, h4, h5, h6{font-weight: normal;}
+img{-webkit-user-drag: none;vertical-align: middle;}
+
+html,body{ height: 100%;  background-color: #f4f4f4;}
+#Home-root{ height: 100%;}
+#app{ max-width: 640px; margin: 0 auto;}
